@@ -1,0 +1,7 @@
+{
+  "name": "VibraVision Pro",
+  "description": "A sophisticated Vibraimage implementation for real-time emotional state visualization and vestibular-emotional reflex analysis using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
